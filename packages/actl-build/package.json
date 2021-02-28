@@ -27,7 +27,7 @@
   "dependencies": {
     "@lerna/collect-updates": "3.18.0",
     "@lerna/package-graph": "3.18.5",
-    "@lerna/project": "3.18.0",
+    "@lerna/project": "3.21.0",
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-help": "2.2.2",

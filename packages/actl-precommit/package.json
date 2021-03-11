@@ -36,7 +36,7 @@
     "jest": "24.9.0",
     "lint-staged": "9.5.0",
     "prettier": "1.19.1",
-    "tslib": "^1"
+    "tslib": "^2.0.0"
   },
   "devDependencies": {
     "@monstrs/publish-flow": "^0.1.3",
